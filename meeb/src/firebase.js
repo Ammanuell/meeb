@@ -3,12 +3,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA4uRjL6nI6s7vz41pNMSbCLpFzmHl1p0Q",
-  authDomain: "bnb-success.firebaseapp.com",
-  projectId: "bnb-success",
-  storageBucket: "bnb-success.firebasestorage.app",
-  messagingSenderId: "824422055097",
-  appId: "1:824422055097:web:ac37d351bb8b36f5186f68"
+  apiKey: "AIzaSyD2oILXjLdvKGEZzHJXVGUtyUE-SUn7w54",
+  authDomain: "meeb-au.firebaseapp.com",
+  projectId: "meeb-au",
+  storageBucket: "meeb-au.firebasestorage.app",
+  messagingSenderId: "1035320728248",
+  appId: "1:1035320728248:web:0d99d1fc54c6300225b24d"
 };
 
 
