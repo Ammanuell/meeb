@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "meeb-au",
-    "staging": "meeb-au"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "meeb-au"
+  }
 }
